@@ -1,0 +1,14 @@
+cami_sessiz_app/
+├── pubspec.yaml
+├── lib/
+│   └── main.dart
+└── android/
+    └── app/
+        └── src/
+            └── main/
+                ├── AndroidManifest.xml
+                └── kotlin/
+                    └── com/
+                        └── cami/
+                            └── otomatiksessiz/
+                                └── MainActivity.kt
